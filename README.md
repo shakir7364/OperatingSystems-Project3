@@ -1,2 +1,6 @@
-# OperatingSystems-Project3
- Operating Systems Process Management Project 3
+# Operating Systems Process Management Project 3
+This is the third Process Management Project from my Operating Systems class where we add disk scheduling. This is primarily done through the addition of the DiskScheduler class. It contains a default constructor that calls the schedule() method which simulates scheduling a disc request during the I/O context switch event. This method also simulates other requests and disk arm movement by "completing" them if the disc request happens to pass by that storage location when on the way to satisfy the original request.
+
+Even though there are no changes to the MemoryManager class, there are still two classes with output so I have included two sample output text files named MemMngrSampleOutput.txt and PrcMgmtSampleOutput.txt. The Java files are located under Project3/src/project3 folder.
+
+I completed this assignment using Eclipse and have exported the project as an Eclipse archive zip file. To run the project yourself, simply import the archive named Project3.zip into your workspace using Eclipse.

@@ -1,0 +1,1662 @@
+
+*****			Ready Queue			*****
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 0	memLimit: 31
+state: Ready	ID: 3	memBase: 0	memLimit: 37
+state: Ready	ID: 4	memBase: 0	memLimit: 55
+state: Ready	ID: 5	memBase: 0	memLimit: 43
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+@0300 Used	state: Ready	ID: 1	memBase: 0	memLimit: 65
+
+*****			Running Process			*****
+state: Running	ID: 1	memBase: 0	memLimit: 65
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 2	memBase: 0	memLimit: 31
+state: Ready	ID: 3	memBase: 0	memLimit: 37
+state: Ready	ID: 4	memBase: 0	memLimit: 55
+state: Ready	ID: 5	memBase: 0	memLimit: 43
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 65	memLimit: 191
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0300 Used	state: Ready	ID: 2	memBase: 65	memLimit: 31
+
+*****			Running Process			*****
+state: Running	ID: 2	memBase: 65	memLimit: 31
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 3	memBase: 0	memLimit: 37
+state: Ready	ID: 4	memBase: 0	memLimit: 55
+state: Ready	ID: 5	memBase: 0	memLimit: 43
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 96	memLimit: 160
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0300 Used	state: Ready	ID: 3	memBase: 96	memLimit: 37
+
+*****			Running Process			*****
+state: Running	ID: 3	memBase: 96	memLimit: 37
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 4	memBase: 0	memLimit: 55
+state: Ready	ID: 5	memBase: 0	memLimit: 43
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 133	memLimit: 123
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0300 Used	state: Ready	ID: 4	memBase: 133	memLimit: 55
+
+*****			Running Process			*****
+state: Running	ID: 4	memBase: 133	memLimit: 55
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 5	memBase: 0	memLimit: 43
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 4	memBase: 133	memLimit: 55
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 188	memLimit: 68
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 4	memBase: 133	memLimit: 55
+@0300 Used	state: Ready	ID: 5	memBase: 188	memLimit: 43
+
+*****			Running Process			*****
+state: Running	ID: 5	memBase: 188	memLimit: 43
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 4	memBase: 133	memLimit: 55
+state: Ready	ID: 5	memBase: 188	memLimit: 43
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 231	memLimit: 25
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 4	memBase: 133	memLimit: 55
+@0200 QUsed	state: Ready	ID: 5	memBase: 188	memLimit: 43
+
+*****			Running Process			*****
+state: Running	ID: 1	memBase: 0	memLimit: 65
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 4	memBase: 133	memLimit: 55
+state: Ready	ID: 5	memBase: 188	memLimit: 43
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 231	memLimit: 25
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 4	memBase: 133	memLimit: 55
+@0200 QUsed	state: Ready	ID: 5	memBase: 188	memLimit: 43
+
+*****			Running Process			*****
+state: Running	ID: 2	memBase: 65	memLimit: 31
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 4	memBase: 133	memLimit: 55
+state: Ready	ID: 5	memBase: 188	memLimit: 43
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 231	memLimit: 25
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 4	memBase: 133	memLimit: 55
+@0200 QUsed	state: Ready	ID: 5	memBase: 188	memLimit: 43
+
+*****			Running Process			*****
+state: Running	ID: 3	memBase: 96	memLimit: 37
+Disk Request 0: 177
+Disk Request 1: 299
+Disk Request 2: 35
+Disk Request 3: 15
+Disk Request 4: 414
+Disk Request 5: 33
+Disk Request 6: 230
+Disk Request 7: 17
+Disk Request 8: 49
+Disk Request 9: 410
+Goal: 410, Head: 170, Smallest Distance: -7
+Disk Request 0: -500
+Disk Request 1: 299
+Disk Request 2: 35
+Disk Request 3: 15
+Disk Request 4: 414
+Disk Request 5: 33
+Disk Request 6: 230
+Disk Request 7: 17
+Disk Request 8: 49
+Disk Request 9: 410
+Goal: 410, Head: 177, Smallest Distance: -53
+Disk Request 0: -500
+Disk Request 1: 299
+Disk Request 2: 35
+Disk Request 3: 15
+Disk Request 4: 414
+Disk Request 5: 33
+Disk Request 6: -500
+Disk Request 7: 17
+Disk Request 8: 49
+Disk Request 9: 410
+Goal: 410, Head: 230, Smallest Distance: -69
+Disk Request 0: -500
+Disk Request 1: -500
+Disk Request 2: 35
+Disk Request 3: 15
+Disk Request 4: 414
+Disk Request 5: 33
+Disk Request 6: -500
+Disk Request 7: 17
+Disk Request 8: 49
+Disk Request 9: 410
+Goal: 410, Head: 299, Smallest Distance: -111
+Disk request has been satisfied.
+*****			Context Switch	I/O event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 4	memBase: 133	memLimit: 55
+state: Ready	ID: 5	memBase: 188	memLimit: 43
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 231	memLimit: 25
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 4	memBase: 133	memLimit: 55
+@0200 QUsed	state: Ready	ID: 5	memBase: 188	memLimit: 43
+
+*****			Running Process			*****
+state: Running	ID: 4	memBase: 133	memLimit: 55
+
+>>>>>	Process	state: Completed	ID: 4	memBase: 133	memLimit: 55	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 5	memBase: 188	memLimit: 43
+
+>>>>>	Process	state: Completed	ID: 5	memBase: 188	memLimit: 43	<<<<<
+@0300 Used	state: Ready	ID: 6	memBase: 0	memLimit: 57
+
+*****			Running Process			*****
+state: Running	ID: 6	memBase: 0	memLimit: 57
+*****			Context Switch	INTERRUPT event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 57	memLimit: 66
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+
+*****			Running Process			*****
+state: Running	ID: 6	memBase: 0	memLimit: 57
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 7	memBase: 0	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 57	memLimit: 66
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0300 Used	state: Ready	ID: 7	memBase: 57	memLimit: 40
+
+*****			Running Process			*****
+state: Running	ID: 7	memBase: 57	memLimit: 40
+*****			Context Switch	INTERRUPT event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 7	memBase: 57	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 97	memLimit: 26
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 7	memBase: 57	memLimit: 40
+
+*****			Running Process			*****
+state: Running	ID: 7	memBase: 57	memLimit: 40
+*****			Context Switch	INTERRUPT event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 7	memBase: 57	memLimit: 40
+state: Ready	ID: 8	memBase: 0	memLimit: 34
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 97	memLimit: 26
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 7	memBase: 57	memLimit: 40
+
+*****			Running Process			*****
+state: Running	ID: 7	memBase: 57	memLimit: 40
+
+>>>>>	Process	state: Completed	ID: 7	memBase: 57	memLimit: 40	<<<<<
+@0300 Used	state: Ready	ID: 8	memBase: 0	memLimit: 34
+
+*****			Running Process			*****
+state: Running	ID: 8	memBase: 0	memLimit: 34
+
+>>>>>	Process	state: Completed	ID: 8	memBase: 0	memLimit: 34	<<<<<
+@0300 Used	state: Ready	ID: 10	memBase: 0	memLimit: 35
+
+*****			Running Process			*****
+state: Running	ID: 10	memBase: 0	memLimit: 35
+Disk Request 0: 398
+Disk Request 1: 33
+Disk Request 2: 415
+Disk Request 3: 37
+Disk Request 4: 122
+Disk Request 5: 61
+Disk Request 6: 338
+Disk Request 7: 379
+Disk Request 8: 347
+Disk Request 9: 20
+Goal: 20, Head: 402, Smallest Distance: 4
+Disk Request 0: -500
+Disk Request 1: 33
+Disk Request 2: 415
+Disk Request 3: 37
+Disk Request 4: 122
+Disk Request 5: 61
+Disk Request 6: 338
+Disk Request 7: 379
+Disk Request 8: 347
+Disk Request 9: 20
+Goal: 20, Head: 398, Smallest Distance: -17
+Disk Request 0: -500
+Disk Request 1: 33
+Disk Request 2: -500
+Disk Request 3: 37
+Disk Request 4: 122
+Disk Request 5: 61
+Disk Request 6: 338
+Disk Request 7: 379
+Disk Request 8: 347
+Disk Request 9: 20
+Goal: 20, Head: 415, Smallest Distance: 36
+Disk Request 0: -500
+Disk Request 1: 33
+Disk Request 2: -500
+Disk Request 3: 37
+Disk Request 4: 122
+Disk Request 5: 61
+Disk Request 6: 338
+Disk Request 7: -500
+Disk Request 8: 347
+Disk Request 9: 20
+Goal: 20, Head: 379, Smallest Distance: 32
+Disk Request 0: -500
+Disk Request 1: 33
+Disk Request 2: -500
+Disk Request 3: 37
+Disk Request 4: 122
+Disk Request 5: 61
+Disk Request 6: 338
+Disk Request 7: -500
+Disk Request 8: -500
+Disk Request 9: 20
+Goal: 20, Head: 347, Smallest Distance: 9
+Disk Request 0: -500
+Disk Request 1: 33
+Disk Request 2: -500
+Disk Request 3: 37
+Disk Request 4: 122
+Disk Request 5: 61
+Disk Request 6: -500
+Disk Request 7: -500
+Disk Request 8: -500
+Disk Request 9: 20
+Goal: 20, Head: 338, Smallest Distance: 216
+Disk Request 0: -500
+Disk Request 1: 33
+Disk Request 2: -500
+Disk Request 3: 37
+Disk Request 4: -500
+Disk Request 5: 61
+Disk Request 6: -500
+Disk Request 7: -500
+Disk Request 8: -500
+Disk Request 9: 20
+Goal: 20, Head: 122, Smallest Distance: 61
+Disk Request 0: -500
+Disk Request 1: 33
+Disk Request 2: -500
+Disk Request 3: 37
+Disk Request 4: -500
+Disk Request 5: -500
+Disk Request 6: -500
+Disk Request 7: -500
+Disk Request 8: -500
+Disk Request 9: 20
+Goal: 20, Head: 61, Smallest Distance: 24
+Disk Request 0: -500
+Disk Request 1: 33
+Disk Request 2: -500
+Disk Request 3: -500
+Disk Request 4: -500
+Disk Request 5: -500
+Disk Request 6: -500
+Disk Request 7: -500
+Disk Request 8: -500
+Disk Request 9: 20
+Goal: 20, Head: 37, Smallest Distance: 4
+Disk Request 0: -500
+Disk Request 1: -500
+Disk Request 2: -500
+Disk Request 3: -500
+Disk Request 4: -500
+Disk Request 5: -500
+Disk Request 6: -500
+Disk Request 7: -500
+Disk Request 8: -500
+Disk Request 9: 20
+Goal: 20, Head: 33, Smallest Distance: 13
+Disk request has been satisfied.
+*****			Context Switch	I/O event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 0	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 35	memLimit: 31
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 10	memBase: 0	memLimit: 35
+@0300 Used	state: Ready	ID: 18	memBase: 35	memLimit: 29
+
+*****			Running Process			*****
+state: Running	ID: 18	memBase: 35	memLimit: 29
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 64	memLimit: 2
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 10	memBase: 0	memLimit: 35
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+
+*****			Running Process			*****
+state: Running	ID: 1	memBase: 0	memLimit: 65
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 64	memLimit: 2
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 10	memBase: 0	memLimit: 35
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+
+*****			Running Process			*****
+state: Running	ID: 2	memBase: 65	memLimit: 31
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 3	memBase: 96	memLimit: 37
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 64	memLimit: 2
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 3	memBase: 96	memLimit: 37
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 10	memBase: 0	memLimit: 35
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+
+*****			Running Process			*****
+state: Running	ID: 3	memBase: 96	memLimit: 37
+
+>>>>>	Process	state: Completed	ID: 3	memBase: 96	memLimit: 37	<<<<<
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 39
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 10	memBase: 0	memLimit: 35
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+
+*****			Running Process			*****
+state: Running	ID: 6	memBase: 0	memLimit: 57
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 10	memBase: 0	memLimit: 35
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 39
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 10	memBase: 0	memLimit: 35
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+
+*****			Running Process			*****
+state: Running	ID: 10	memBase: 0	memLimit: 35
+
+>>>>>	Process	state: Completed	ID: 10	memBase: 0	memLimit: 35	<<<<<
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 74
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0300 Used	state: Ready	ID: 11	memBase: 0	memLimit: 56
+
+*****			Running Process			*****
+state: Running	ID: 11	memBase: 0	memLimit: 56
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 56	memLimit: 18
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 11	memBase: 0	memLimit: 56
+
+*****			Running Process			*****
+state: Running	ID: 18	memBase: 35	memLimit: 29
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 56	memLimit: 18
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 11	memBase: 0	memLimit: 56
+
+*****			Running Process			*****
+state: Running	ID: 1	memBase: 0	memLimit: 65
+Disk Request 0: 253
+Disk Request 1: 347
+Disk Request 2: 245
+Disk Request 3: 25
+Disk Request 4: 172
+Disk Request 5: 357
+Disk Request 6: 297
+Disk Request 7: 469
+Disk Request 8: 128
+Disk Request 9: 458
+Goal: 458, Head: 205, Smallest Distance: 33
+Disk Request 0: 253
+Disk Request 1: 347
+Disk Request 2: 245
+Disk Request 3: 25
+Disk Request 4: -500
+Disk Request 5: 357
+Disk Request 6: 297
+Disk Request 7: 469
+Disk Request 8: 128
+Disk Request 9: 458
+Goal: 458, Head: 172, Smallest Distance: 44
+Disk Request 0: 253
+Disk Request 1: 347
+Disk Request 2: 245
+Disk Request 3: 25
+Disk Request 4: -500
+Disk Request 5: 357
+Disk Request 6: 297
+Disk Request 7: 469
+Disk Request 8: -500
+Disk Request 9: 458
+Goal: 458, Head: 128, Smallest Distance: 103
+Disk Request 0: 253
+Disk Request 1: 347
+Disk Request 2: 245
+Disk Request 3: -500
+Disk Request 4: -500
+Disk Request 5: 357
+Disk Request 6: 297
+Disk Request 7: 469
+Disk Request 8: -500
+Disk Request 9: 458
+Goal: 458, Head: 25, Smallest Distance: -220
+Disk Request 0: 253
+Disk Request 1: 347
+Disk Request 2: -500
+Disk Request 3: -500
+Disk Request 4: -500
+Disk Request 5: 357
+Disk Request 6: 297
+Disk Request 7: 469
+Disk Request 8: -500
+Disk Request 9: 458
+Goal: 458, Head: 245, Smallest Distance: -8
+Disk Request 0: -500
+Disk Request 1: 347
+Disk Request 2: -500
+Disk Request 3: -500
+Disk Request 4: -500
+Disk Request 5: 357
+Disk Request 6: 297
+Disk Request 7: 469
+Disk Request 8: -500
+Disk Request 9: 458
+Goal: 458, Head: 253, Smallest Distance: -44
+Disk Request 0: -500
+Disk Request 1: 347
+Disk Request 2: -500
+Disk Request 3: -500
+Disk Request 4: -500
+Disk Request 5: 357
+Disk Request 6: -500
+Disk Request 7: 469
+Disk Request 8: -500
+Disk Request 9: 458
+Goal: 458, Head: 297, Smallest Distance: -50
+Disk Request 0: -500
+Disk Request 1: -500
+Disk Request 2: -500
+Disk Request 3: -500
+Disk Request 4: -500
+Disk Request 5: 357
+Disk Request 6: -500
+Disk Request 7: 469
+Disk Request 8: -500
+Disk Request 9: 458
+Goal: 458, Head: 347, Smallest Distance: -10
+Disk Request 0: -500
+Disk Request 1: -500
+Disk Request 2: -500
+Disk Request 3: -500
+Disk Request 4: -500
+Disk Request 5: -500
+Disk Request 6: -500
+Disk Request 7: 469
+Disk Request 8: -500
+Disk Request 9: 458
+Goal: 458, Head: 357, Smallest Distance: -101
+Disk request has been satisfied.
+*****			Context Switch	I/O event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 2	memBase: 65	memLimit: 31
+state: Ready	ID: 6	memBase: 0	memLimit: 57
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 56	memLimit: 18
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 2	memBase: 65	memLimit: 31
+@0200 QUsed	state: Ready	ID: 6	memBase: 0	memLimit: 57
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 11	memBase: 0	memLimit: 56
+
+*****			Running Process			*****
+state: Running	ID: 2	memBase: 65	memLimit: 31
+
+>>>>>	Process	state: Completed	ID: 2	memBase: 65	memLimit: 31	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 6	memBase: 0	memLimit: 57
+
+>>>>>	Process	state: Completed	ID: 6	memBase: 0	memLimit: 57	<<<<<
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 9	memBase: 0	memLimit: 75
+state: Ready	ID: 11	memBase: 0	memLimit: 56
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 106
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 11	memBase: 0	memLimit: 56
+@0300 Used	state: Ready	ID: 9	memBase: 0	memLimit: 75
+
+*****			Running Process			*****
+state: Running	ID: 9	memBase: 0	memLimit: 75
+
+>>>>>	Process	state: Completed	ID: 9	memBase: 0	memLimit: 75	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 11	memBase: 0	memLimit: 56
+
+>>>>>	Process	state: Completed	ID: 11	memBase: 0	memLimit: 56	<<<<<
+@0300 Used	state: Ready	ID: 12	memBase: 0	memLimit: 34
+
+*****			Running Process			*****
+state: Running	ID: 12	memBase: 0	memLimit: 34
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 13	memBase: 0	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 34	memLimit: 128
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0300 Used	state: Ready	ID: 13	memBase: 34	memLimit: 63
+
+*****			Running Process			*****
+state: Running	ID: 13	memBase: 34	memLimit: 63
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 15	memBase: 0	memLimit: 31
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 97	memLimit: 65
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0300 Used	state: Ready	ID: 15	memBase: 97	memLimit: 31
+
+*****			Running Process			*****
+state: Running	ID: 15	memBase: 97	memLimit: 31
+
+>>>>>	Process	state: Completed	ID: 15	memBase: 97	memLimit: 31	<<<<<
+@0300 Used	state: Ready	ID: 16	memBase: 0	memLimit: 46
+
+*****			Running Process			*****
+state: Running	ID: 16	memBase: 0	memLimit: 46
+Disk Request 0: 39
+Disk Request 1: 52
+Disk Request 2: 500
+Disk Request 3: 156
+Disk Request 4: 181
+Disk Request 5: 438
+Disk Request 6: 39
+Disk Request 7: 183
+Disk Request 8: 8
+Disk Request 9: 164
+Goal: 164, Head: 435, Smallest Distance: -3
+Disk Request 0: 39
+Disk Request 1: 52
+Disk Request 2: 500
+Disk Request 3: 156
+Disk Request 4: 181
+Disk Request 5: -500
+Disk Request 6: 39
+Disk Request 7: 183
+Disk Request 8: 8
+Disk Request 9: 164
+Goal: 164, Head: 438, Smallest Distance: -62
+Disk Request 0: 39
+Disk Request 1: 52
+Disk Request 2: -500
+Disk Request 3: 156
+Disk Request 4: 181
+Disk Request 5: -500
+Disk Request 6: 39
+Disk Request 7: 183
+Disk Request 8: 8
+Disk Request 9: 164
+Goal: 164, Head: 500, Smallest Distance: 317
+Disk Request 0: 39
+Disk Request 1: 52
+Disk Request 2: -500
+Disk Request 3: 156
+Disk Request 4: 181
+Disk Request 5: -500
+Disk Request 6: 39
+Disk Request 7: -500
+Disk Request 8: 8
+Disk Request 9: 164
+Goal: 164, Head: 183, Smallest Distance: 2
+Disk Request 0: 39
+Disk Request 1: 52
+Disk Request 2: -500
+Disk Request 3: 156
+Disk Request 4: -500
+Disk Request 5: -500
+Disk Request 6: 39
+Disk Request 7: -500
+Disk Request 8: 8
+Disk Request 9: 164
+Goal: 164, Head: 181, Smallest Distance: 17
+Disk request has been satisfied.
+*****			Context Switch	I/O event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 46	memLimit: 19
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+
+*****			Running Process			*****
+state: Running	ID: 18	memBase: 35	memLimit: 29
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 1	memBase: 0	memLimit: 65
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 46	memLimit: 19
+@0200 QUsed	state: Ready	ID: 1	memBase: 0	memLimit: 65
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+
+*****			Running Process			*****
+state: Running	ID: 1	memBase: 0	memLimit: 65
+
+>>>>>	Process	state: Completed	ID: 1	memBase: 0	memLimit: 65	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 12	memBase: 0	memLimit: 34
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 84
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+
+*****			Running Process			*****
+state: Running	ID: 13	memBase: 34	memLimit: 63
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 84
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+@0300 Used	state: Ready	ID: 14	memBase: 0	memLimit: 75
+
+*****			Running Process			*****
+state: Running	ID: 14	memBase: 0	memLimit: 75
+*****			Context Switch	INTERRUPT event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 14	memBase: 0	memLimit: 75
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 75	memLimit: 9
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+@0200 QUsed	state: Ready	ID: 14	memBase: 0	memLimit: 75
+
+*****			Running Process			*****
+state: Running	ID: 14	memBase: 0	memLimit: 75
+
+>>>>>	Process	state: Completed	ID: 14	memBase: 0	memLimit: 75	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 16	memBase: 0	memLimit: 46
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 17	memBase: 0	memLimit: 66
+state: Ready	ID: 18	memBase: 35	memLimit: 29
+state: Ready	ID: 19	memBase: 0	memLimit: 52
+state: Ready	ID: 20	memBase: 0	memLimit: 70
+state: Ready	ID: 21	memBase: 0	memLimit: 29
+state: Ready	ID: 22	memBase: 0	memLimit: 52
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 84
+@0200 QUsed	state: Ready	ID: 18	memBase: 35	memLimit: 29
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+@0300 Used	state: Ready	ID: 17	memBase: 0	memLimit: 66
+
+*****			Running Process			*****
+state: Running	ID: 17	memBase: 0	memLimit: 66
+
+>>>>>	Process	state: Completed	ID: 17	memBase: 0	memLimit: 66	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 18	memBase: 35	memLimit: 29
+
+>>>>>	Process	state: Completed	ID: 18	memBase: 35	memLimit: 29	<<<<<
+@0300 Used	state: Ready	ID: 19	memBase: 0	memLimit: 52
+
+*****			Running Process			*****
+state: Running	ID: 19	memBase: 0	memLimit: 52
+
+>>>>>	Process	state: Completed	ID: 19	memBase: 0	memLimit: 52	<<<<<
+@0300 Used	state: Ready	ID: 20	memBase: 0	memLimit: 70
+
+*****			Running Process			*****
+state: Running	ID: 20	memBase: 0	memLimit: 70
+
+>>>>>	Process	state: Completed	ID: 20	memBase: 0	memLimit: 70	<<<<<
+@0300 Used	state: Ready	ID: 21	memBase: 0	memLimit: 29
+
+*****			Running Process			*****
+state: Running	ID: 21	memBase: 0	memLimit: 29
+
+>>>>>	Process	state: Completed	ID: 21	memBase: 0	memLimit: 29	<<<<<
+@0300 Used	state: Ready	ID: 22	memBase: 0	memLimit: 52
+
+*****			Running Process			*****
+state: Running	ID: 22	memBase: 0	memLimit: 52
+
+>>>>>	Process	state: Completed	ID: 22	memBase: 0	memLimit: 52	<<<<<
+@0300 Used	state: Ready	ID: 23	memBase: 0	memLimit: 28
+
+*****			Running Process			*****
+state: Running	ID: 23	memBase: 0	memLimit: 28
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 24	memBase: 0	memLimit: 37
+state: Ready	ID: 25	memBase: 0	memLimit: 75
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 28	memLimit: 85
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+@0200 QUsed	state: Ready	ID: 23	memBase: 0	memLimit: 28
+@0300 Used	state: Ready	ID: 24	memBase: 28	memLimit: 37
+
+*****			Running Process			*****
+state: Running	ID: 24	memBase: 28	memLimit: 37
+
+>>>>>	Process	state: Completed	ID: 24	memBase: 28	memLimit: 37	<<<<<
+@0300 Used	state: Ready	ID: 25	memBase: 0	memLimit: 75
+
+*****			Running Process			*****
+state: Running	ID: 25	memBase: 0	memLimit: 75
+
+>>>>>	Process	state: Completed	ID: 25	memBase: 0	memLimit: 75	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 12	memBase: 0	memLimit: 34
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 85
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+@0200 QUsed	state: Ready	ID: 23	memBase: 0	memLimit: 28
+
+*****			Running Process			*****
+state: Running	ID: 13	memBase: 34	memLimit: 63
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 85
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+@0200 QUsed	state: Ready	ID: 23	memBase: 0	memLimit: 28
+
+*****			Running Process			*****
+state: Running	ID: 16	memBase: 0	memLimit: 46
+Disk Request 0: 482
+Disk Request 1: 475
+Disk Request 2: 141
+Disk Request 3: 242
+Disk Request 4: 465
+Disk Request 5: 346
+Disk Request 6: 475
+Disk Request 7: 470
+Disk Request 8: 253
+Disk Request 9: 266
+Goal: 266, Head: 399, Smallest Distance: 53
+Disk Request 0: 482
+Disk Request 1: 475
+Disk Request 2: 141
+Disk Request 3: 242
+Disk Request 4: 465
+Disk Request 5: -500
+Disk Request 6: 475
+Disk Request 7: 470
+Disk Request 8: 253
+Disk Request 9: 266
+Goal: 266, Head: 346, Smallest Distance: 80
+Disk request has been satisfied.
+*****			Context Switch	I/O event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 85
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+@0200 QUsed	state: Ready	ID: 23	memBase: 0	memLimit: 28
+
+*****			Running Process			*****
+state: Running	ID: 23	memBase: 0	memLimit: 28
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 85
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+@0200 QUsed	state: Ready	ID: 23	memBase: 0	memLimit: 28
+
+*****			Running Process			*****
+state: Running	ID: 12	memBase: 0	memLimit: 34
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 13	memBase: 34	memLimit: 63
+state: Ready	ID: 16	memBase: 0	memLimit: 46
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 85
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 13	memBase: 34	memLimit: 63
+@0200 QUsed	state: Ready	ID: 16	memBase: 0	memLimit: 46
+@0200 QUsed	state: Ready	ID: 23	memBase: 0	memLimit: 28
+
+*****			Running Process			*****
+state: Running	ID: 13	memBase: 34	memLimit: 63
+
+>>>>>	Process	state: Completed	ID: 13	memBase: 34	memLimit: 63	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 16	memBase: 0	memLimit: 46
+
+>>>>>	Process	state: Completed	ID: 16	memBase: 0	memLimit: 46	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 23	memBase: 0	memLimit: 28
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 12	memBase: 0	memLimit: 34
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 194
+@0200 QUsed	state: Ready	ID: 12	memBase: 0	memLimit: 34
+@0200 QUsed	state: Ready	ID: 23	memBase: 0	memLimit: 28
+
+*****			Running Process			*****
+state: Running	ID: 12	memBase: 0	memLimit: 34
+
+>>>>>	Process	state: Completed	ID: 12	memBase: 0	memLimit: 34	<<<<<
+
+*****			Running Process			*****
+state: Running	ID: 23	memBase: 0	memLimit: 28
+*****			Context Switch	TIME event			*****
+
+*****			Context Switch	Ready Queue			*****
+state: Ready	ID: 23	memBase: 0	memLimit: 28
+============
+
+@020 QOpen	state: @	ID: 0	memBase: 0	memLimit: 228
+@0200 QUsed	state: Ready	ID: 23	memBase: 0	memLimit: 28
+
+*****			Running Process			*****
+state: Running	ID: 23	memBase: 0	memLimit: 28
+
+>>>>>	Process	state: Completed	ID: 23	memBase: 0	memLimit: 28	<<<<<
